@@ -1,0 +1,41 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background-color:antiquewhite ;
+}
+
+h1 {
+color:blueviolet;
+background-color: black;
+}
+p {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+/* To call the class, you will start with a"." */
+
+.abc{
+    font-size: 20px;
+    color:black;
+    background-color:brown;
+}
+
+/* To call an ID you will use "#" */
+
+#xyz{
+    font-size: 20px;
+    color:aliceblue;
+    background-color:darkslategrey;
+}
+
+h2,h3,h4,h5{
+    display: inline-block;
+}
+
+a{
+display: block;
+}
+
+.qwe{
+    font: size 30px;;
+}
